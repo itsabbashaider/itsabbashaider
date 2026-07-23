@@ -19,7 +19,7 @@ I'm a self-driven developer passionate about creating functional web application
 
 ### Frontend
 - **Languages:** JavaScript, HTML, CSS
-- **Frameworks & Libraries:** React
+- **Frameworks & Libraries:** React, Next.js
 - **Styling:** TailwindCSS, CSS3
 - **Tools:** VSCode
 
