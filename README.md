@@ -69,7 +69,7 @@ A complete task management application demonstrating full-stack capabilities wit
 
 ## 🎓 Education & Training
 
-- **Current:** Algorithm training and practical project development
+- **Current:**In Algorithm training and practical project development
 - **Focus:** Full-stack development with JavaScript and Python
 - **Goal:** Strengthen foundational skills and build a strong portfolio
 
