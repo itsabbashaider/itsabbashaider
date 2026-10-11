@@ -18,19 +18,19 @@ I'm a self-driven developer passionate about creating functional web application
 ## 💻 Technical Skills
 
 ### Frontend
-- **Languages:** JavaScript, HTML, CSS
+- **Languages:** JavaScript, TypeScript, HTML, CSS
 - **Frameworks & Libraries:** React, Next.js, React Hook Form
 - **Styling:** TailwindCSS, CSS3
 - **Tools:** VSCode, Git/GitHub
 
 ### Backend
-- **Languages:** JavaScript (Node.js), Python
+- **Languages:** JavaScript (Node.js), Python, TypeScript
 - **Framework:** Express.js
-- **Database:** PostgreSQL (with transaction management)
+- **Database:** PostgreSQL 
 
 ### Other
 - Full Stack Development & Hybrid Authentication (OAuth + Credentials)
-- Algorithm & Data Structures Training
+- Algorithm Trainings 
 - Version Control (Git/GitHub)
 
 ---
@@ -70,7 +70,7 @@ An enhanced version of my portfolio using TailwindCSS for modern, utility-first 
 ## 🎓 Education & Training
 
 - **Current:** Software engineering trainee focusing on practical project development and architecture
-- **Focus:** Full-stack development with JavaScript and Python
+- **Focus:** Full-stack development with JavaScript and TypeScript 
 - **Goal:** Strengthen foundational skills and build a robust production portfolio
 
 ---
